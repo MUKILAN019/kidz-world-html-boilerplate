@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    margin-top:35px;
+    height: 20px;
+    width: 100px;
+    margin-left: 70px;
+    position: absolute;
+}
+.cart-img{
+    display:flex;
+    height:20px;
+    margin-top:30px;
+    margin-left: 70px;
+}
+#cart-value{
+    font-weight: bolder;
+}
+.font-1{
+    font-weight: bolder;
+    font-size: small;
+    margin-top:47px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    /*border: 1px solid black;*/
+    height: 60px;
+    width:100%;
+}
+#cart{
+    display: flex;
+    width: 200px;
+    align-items: center;
+}
+header{
+    background-image: url(assets/kw-background.png);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    background-position: 100%;
+}
+.flex-header-text{
+    color: white;
+    margin-left: 70px;
+    margin-top: ;
+}
+.flex-header-text>h1{
+    font-size: xxx-large;
+    display:flex;
+    line-height: 87px;
+    
+}
+.flex-header-text>h5{
+    font-size:large;
+}
+.whitecart{
+    display: flex;
+    border: 1px solid black;
+    width:60px;
+    height: 25px;
+    background-color: rgb(53, 128, 240);
+    border-radius: 6px;
+}
+.whitecart>img{
+    display: flex;
+    width: 20px;
+    height: 17px;
+    margin-top: 6px;
+    margin-left:8px;
+}
+.whitecart>h6{
+    display: flex;
+    color: white;
+    align-self: center;
+    margin-left: 7px;
+}
+.book{
+    width: 130px;
+     height: 190px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.section-container{
+    padding: 0px;
+}
+.rv{
+    display: flex;
+    justify-content: space-between;
+}
+.section-two{
+    display:flex;
+    padding-top: 10px;
+    justify-content: space-between;
+}
+.games{
+    width:170px;
+    height: 150px;
+    border-radius: 5px;
+}
+.section-container-two{
+    padding-top: 40px;
+}
+.love{
+    width:240px;
+    height:190px;
+    border-radius: 4px;
+}
+.seaction-containerthree{
+    background-color: black;
+    color: white;
+    margin-top: 200px;
+    width: 100%;
+}
+.krishti{
+    height: 150px;
+    width:150px;
+    border-radius:100%;
+
+}
+.krishtitext{
+    border: 1px solid white;
+    text-align: right;
+}
+.margin{
+    margin:20px;
+}
+.heart{
+    height:15px;
+    width:15px;
+    margin-top: 13px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0%;
+
+}
+.dr{
+    padding-left: 130px;
+}
